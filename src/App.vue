@@ -51,6 +51,6 @@ export default {
   margin-top: 60px;
 }
 .logo {
-  /* width: 50%; */
+  width: 100px;
 }
 </style>
