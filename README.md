@@ -5,6 +5,8 @@
 ## Project setup
 
 ```
+npm install -g netlify-cli
+
 npm install
 ```
 
