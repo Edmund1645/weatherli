@@ -3,7 +3,7 @@
     <NavBar :name="name"/>
     <div class="main">
       <img class="logo" alt="Weatherli logo" src="./assets/logo.png">
-      <Content msg="Weatherli is undergoing some major upgrade and will return soon.."/>
+      <Content msg="Current weather"/>
     </div>
     <Footer :name="name"/>
   </div>

@@ -7,7 +7,6 @@ exports.handler = function(event, context, callback) {
     process.env.WEATHERLI_KEY
   }`;
   console.log(baseUrl);
-  // console.log(event);
   fetch(baseUrl)
     .then(response => response.json())
     .then(json => {

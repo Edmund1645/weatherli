@@ -1,5 +1,6 @@
 <template>
   <footer class="footer">
+    <p>made with ☕ and Vue</p>
     <span>{{name}} - {{year}}</span>
   </footer>
 </template>
